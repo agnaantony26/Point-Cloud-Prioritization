@@ -16,15 +16,17 @@ The project requires the following Python libraries:
 Install them using:
 ```bash
 pip install numpy matplotlib
+```bash
 
 ## Usage
 Clone the repository:
    ```bash
    git clone https://github.com/yourusername/point-cloud-prioritization.git
    cd point-cloud-prioritization
+   ```bash
 
 
 ## Run the script:
 ```bash
 python prioritize_point_cloud.py
-
+```bash
