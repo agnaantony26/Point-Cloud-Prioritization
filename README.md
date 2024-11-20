@@ -19,10 +19,12 @@ pip install numpy matplotlib
 
 ## Usage
 Clone the repository:
-```bash
-git clone https://github.com/yourusername/point-cloud-prioritization.git
-cd point-cloud-prioritization
+   ```bash
+   git clone https://github.com/yourusername/point-cloud-prioritization.git
+   cd point-cloud-prioritization
+
 
 ## Run the script:
 ```bash
 python prioritize_point_cloud.py
+
