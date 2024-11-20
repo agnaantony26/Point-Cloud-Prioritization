@@ -17,12 +17,12 @@ Install them using:
 ```bash
 pip install numpy matplotlib
 
-Usage
+## Usage
 Clone the repository:
 ```bash
 git clone https://github.com/yourusername/point-cloud-prioritization.git
 cd point-cloud-prioritization
 
-Run the script:
+## Run the script:
 ```bash
 python prioritize_point_cloud.py
