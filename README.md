@@ -16,4 +16,3 @@ The project requires the following Python libraries:
 Install them using:
 ```bash
 pip install numpy matplotlib
-
